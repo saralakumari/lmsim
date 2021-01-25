@@ -1,0 +1,10 @@
+"cohort","n","gen1","outcome","prob","se"
+"Rural",84,"M.gen1","M.gen2",0.202380952380952,0.0438372127326841
+"Town",8,"M.gen1","M.gen2",0,0
+"Urban",0,"M.gen1","M.gen2",NA,NA
+"Rural",84,"M.gen1","B.gen2",0.797619047619048,0.0438372127326841
+"Town",8,"M.gen1","B.gen2",1,0
+"Urban",0,"M.gen1","B.gen2",NA,NA
+"Rural",84,"M.gen1","C.gen2",0,0
+"Town",8,"M.gen1","C.gen2",0,0
+"Urban",0,"M.gen1","C.gen2",NA,NA
